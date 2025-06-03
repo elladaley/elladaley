@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elladaley
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and OOP, mainly c++ bc BOTW was coded in it
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me edd8735@mavs.uta.edu
 - 😄 Pronouns: she/her
